@@ -75,6 +75,12 @@
       )
     )
     (symbol "AFBR-S4N44P014M_1_1"
+      (text "Anode" (at 4.318 2.794 900)
+        (effects (font (size 1.27 1.27)))
+      )
+      (text "Cathode" (at -0.254 2.794 900)
+        (effects (font (size 1.27 1.27)))
+      )
       (pin input line (at -4.064 7.366 0) (length 2.54)
         (name "" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))

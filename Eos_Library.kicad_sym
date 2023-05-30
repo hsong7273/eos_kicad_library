@@ -2057,11 +2057,11 @@
       )
     )
   )
-  (symbol "LTC6752-4" (in_bom yes) (on_board yes)
+  (symbol "LTC6752-1" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 -6.858 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "" (at 1.778 0 0)
+    (property "Value" "LTC6752-1" (at 0 6.096 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 1.778 0 0)
@@ -2070,13 +2070,13 @@
     (property "Datasheet" "" (at 1.778 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "LTC6752-4_0_1"
+    (symbol "LTC6752-1_0_1"
       (rectangle (start -7.112 5.1562) (end 6.858 -5.08)
         (stroke (width 0) (type default))
         (fill (type none))
       )
     )
-    (symbol "LTC6752-4_1_1"
+    (symbol "LTC6752-1_1_1"
       (pin input line (at -9.652 2.54 0) (length 2.54)
         (name "Q" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

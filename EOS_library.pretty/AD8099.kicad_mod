@@ -21,4 +21,6 @@
   (pad "6" smd rect (at 3.135 -0.762) (size 0.51 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a96fba10-00f1-4a59-9b4a-37ae03cf459b))
   (pad "7" smd rect (at 1.865 -0.762) (size 0.51 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9ddf30ba-9221-4a59-9972-01684440e794))
   (pad "8" smd rect (at 0.595 -0.762) (size 0.51 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 079db592-3f8b-4b1a-9894-a58f1dcd8c25))
+  (pad "9" smd roundrect (at 2.5 2) (size 2.29 2.29) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (thermal_bridge_angle 45) (tstamp 72297e99-a205-4217-83b9-da062932c7ef))
 )
